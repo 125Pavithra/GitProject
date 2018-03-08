@@ -11,7 +11,7 @@ namespace GitProject.Controllers
     {
         public string Post()
         {
-            return "Post the data";
+            return "This is the post method to post the data";
         }
     }
 }
